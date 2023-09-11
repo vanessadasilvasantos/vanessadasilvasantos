@@ -1,8 +1,8 @@
 ### Oii! Eu sou a Vanessa Santos, desenvolvedora Front-end 
 
 
-- 🔭 Estudo front-end
-- 🌱 Atualmente estou estudando JavaScript
+- 🔭 Estudo front-end 
+- 🌱 Atualmente estou estudando React Native
 
 
 
